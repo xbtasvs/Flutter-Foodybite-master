@@ -1,11 +1,11 @@
-# 🍔Foodybite [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <a href="https://github.com/Solido/awesome-flutter"><img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" /></a>
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+><a href='https://ko-fi.com/eirehauler' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
+> * [PayPal](https://www.paypal.me/EireHauler)
 
 Flutter representation of a Restaurant app UI i found in Uplabs. 
 **It only consists of 2 screens.**
 
 Star⭐ the repo if you like what you see😉.
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
 
 ## 📸 ScreenShots
 
@@ -28,7 +28,9 @@ Star⭐ the repo if you like what you see😉.
 * A brain to think 🤓🤓
 
 ## 🤓 Author(s)
-**Olusegun Festus Babajide** [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+><a href='https://ko-fi.com/eirehauler' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
+> * [PayPal](https://www.paypal.me/EireHauler)
 
 ## Getting Started
 
